@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIT.UDMP.Web", "XIT.UDMP.Web\XIT.UDMP.Web.csproj", "{4F0FA8E1-77B3-4600-A1A6-4D6314C1A823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIT.UDMP.Web.Model", "XIT.UDMP.Web.Model\XIT.UDMP.Web.Model.csproj", "{FA09770A-96F7-4DAD-A845-6F492E34D112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIT.UDMP.Web.BLL", "XIT.UDMP.Web.BLL\XIT.UDMP.Web.BLL.csproj", "{4FA423BE-0C77-4CAB-845E-29A0414772D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XIT.UDMP.Web.DAL", "XIT.UDMP.Web.DAL\XIT.UDMP.Web.DAL.csproj", "{31C9A8C9-2048-4A6D-A279-26DE5692FE67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F0FA8E1-77B3-4600-A1A6-4D6314C1A823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0FA8E1-77B3-4600-A1A6-4D6314C1A823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0FA8E1-77B3-4600-A1A6-4D6314C1A823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0FA8E1-77B3-4600-A1A6-4D6314C1A823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA09770A-96F7-4DAD-A845-6F492E34D112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA09770A-96F7-4DAD-A845-6F492E34D112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA09770A-96F7-4DAD-A845-6F492E34D112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA09770A-96F7-4DAD-A845-6F492E34D112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA423BE-0C77-4CAB-845E-29A0414772D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA423BE-0C77-4CAB-845E-29A0414772D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA423BE-0C77-4CAB-845E-29A0414772D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA423BE-0C77-4CAB-845E-29A0414772D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C9A8C9-2048-4A6D-A279-26DE5692FE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C9A8C9-2048-4A6D-A279-26DE5692FE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C9A8C9-2048-4A6D-A279-26DE5692FE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C9A8C9-2048-4A6D-A279-26DE5692FE67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F0DEA83-2F5D-414C-8A0D-ADC4FD32B088}
+	EndGlobalSection
+EndGlobal
